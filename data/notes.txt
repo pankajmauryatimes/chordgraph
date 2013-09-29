@@ -1,0 +1,2 @@
+C Major: C, D, E, F, G, A, B, C
+tone, tone, semi tone, tone, tone, tone, semi tone
