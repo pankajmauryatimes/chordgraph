@@ -1,4 +1,4 @@
-chordgraph
+Chordgraph
 ==========
 
 Chord Graph and apis
